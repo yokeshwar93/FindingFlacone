@@ -7,7 +7,7 @@
     "enzyme-adapter-react-16": "^1.13.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8",
+    "react-scripts": "5.0.1",
     "@material-ui/core": "^4.0.1",
     "@material-ui/icons": "^4.0.1",
 
